@@ -175,7 +175,6 @@ The new Firefox DevTools are powerful, flexible, and best of all, hackable. This
 - [Git-open Zsh Plugin] (https://github.com/paulirish/git-open) - ZSH plugin to open the repo's respective website.
 - [Eclipse](https://eclipse.org/)
 - [Pycharm](https://www.jetbrains.com/pycharm/)
-- [JetBrains](https://www.jetbrains.com/)
 
 ## Entertainment
 - [Rotten Tomatoes](https://www.rottentomatoes.com/)
@@ -341,6 +340,7 @@ Active Opensource libraries for Reinforcement Learning Research
 - https://www.youtube.com/user/CodeOrg
 - https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA
 - https://www.youtube.com/user/Brackeys
+- https://www.youtube.com/user/intuit
 
 ## Write unit tests!
 
